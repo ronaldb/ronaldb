@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to my GitHub profile!
+* 👋 My name is Ronald Bruintjes
+* ✍ I have a blog over at <https://automationadventures.com>
+* 🐦 I'm on Twitter at <https://twitter.com/ronaldb>
+* Drop in and say Hi! 😀
+
+![Ron's github stats](https://github-readme-stats.vercel.app/api?username=ronaldb&show_icons=true)
