@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 * 🐦 I'm on Twitter at <https://twitter.com/ronaldb>
 * Drop in and say Hi! 😀
 
-![Ron's github stats](https://github-readme-stats.vercel.app/api?username=ronaldb&show_icons=true)
+![Ron's github stats](https://github-readme-stats.vercel.app/api?username=ronaldb&show_icons=true&theme=dark)
